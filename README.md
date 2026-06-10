@@ -14,3 +14,4 @@
 - **Database:** MongoDB (via Mongoose ODM)
 - **Frontend Engine:** EJS (Embedded JavaScript)
 - **Security:** BcryptJS, Session-cookies
+  Intern ID:
